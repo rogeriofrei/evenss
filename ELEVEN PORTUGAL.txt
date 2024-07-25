@@ -1,0 +1,717 @@
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+http://799139845903744516.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://799139845903746355.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+http://799139845903755739.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/755739.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 HEVC" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 HEVC
+http://799139845903775152.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/775152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 HEVC" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 HEVC
+http://799139845903775153.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/775153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Portugal",PT: DAZN ELEVEN 4 FHD
+http://799139845903775157.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/775157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 6 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Portugal",PT: DAZN ELEVEN 6 FHD
+http://799139845903775160.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/775160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 HEVC" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 HEVC
+http://799139845903778203.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/778203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 FHD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 FHD
+http://799139845903782968.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/782968.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
+http://799139845903798232.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/798232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://799139845903802460.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/802460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://799139845903802464.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/802464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://799139845903802465.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/802465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: EUROSPORT 2ᶠᴴᴰ FHD
+http://799139845903802467.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/802467.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://799139845903821804.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/821804.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 5 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png" group-title="Portugal",PT: DAZN ELEVEN 5 FHD
+http://799139845903836459.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/836459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://799139845903845747.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/845747.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://799139845903845748.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/845748.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 FHD
+http://799139845903845749.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/845749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://799139845903845750.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/845750.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 FHD
+http://799139845903845751.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/845751.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00'S SD" tvg-logo="" group-title="Portugal",PT: MTV 00'S SD
+http://799139845903845758.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/845758.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 FHD" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 FHD
+http://799139845903851886.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/851886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 FHD
+http://799139845903851887.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/851887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://799139845903857180.ofk0601.xyz:80/play/fe1108765/fuuVmcwh959Q/857180.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+http://430157538976744516.ofk0601.xyz:80/play/Kurrit921D/641590179M121/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://430157538976746355.ofk0601.xyz:80/play/Kurrit921D/641590179M121/746355.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 HEVC" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 HEVC
+http://430157538976775152.ofk0601.xyz:80/play/Kurrit921D/641590179M121/775152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 HEVC" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 HEVC
+http://430157538976775153.ofk0601.xyz:80/play/Kurrit921D/641590179M121/775153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Portugal",PT: DAZN ELEVEN 4 FHD
+http://430157538976775157.ofk0601.xyz:80/play/Kurrit921D/641590179M121/775157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 6 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Portugal",PT: DAZN ELEVEN 6 FHD
+http://430157538976775160.ofk0601.xyz:80/play/Kurrit921D/641590179M121/775160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 HEVC" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 HEVC
+http://430157538976778203.ofk0601.xyz:80/play/Kurrit921D/641590179M121/778203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 FHD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 FHD
+http://430157538976782968.ofk0601.xyz:80/play/Kurrit921D/641590179M121/782968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://430157538976802460.ofk0601.xyz:80/play/Kurrit921D/641590179M121/802460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://430157538976802464.ofk0601.xyz:80/play/Kurrit921D/641590179M121/802464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://430157538976802465.ofk0601.xyz:80/play/Kurrit921D/641590179M121/802465.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://430157538976821804.ofk0601.xyz:80/play/Kurrit921D/641590179M121/821804.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 5 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png" group-title="Portugal",PT: DAZN ELEVEN 5 FHD
+http://430157538976836459.ofk0601.xyz:80/play/Kurrit921D/641590179M121/836459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://430157538976845747.ofk0601.xyz:80/play/Kurrit921D/641590179M121/845747.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://430157538976845748.ofk0601.xyz:80/play/Kurrit921D/641590179M121/845748.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 FHD
+http://430157538976845749.ofk0601.xyz:80/play/Kurrit921D/641590179M121/845749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://430157538976845750.ofk0601.xyz:80/play/Kurrit921D/641590179M121/845750.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 FHD
+http://430157538976845751.ofk0601.xyz:80/play/Kurrit921D/641590179M121/845751.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 FHD" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 FHD
+http://430157538976851886.ofk0601.xyz:80/play/Kurrit921D/641590179M121/851886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 FHD
+http://430157538976851887.ofk0601.xyz:80/play/Kurrit921D/641590179M121/851887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://430157538976857180.ofk0601.xyz:80/play/Kurrit921D/641590179M121/857180.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+http://934189609995744516.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://934189609995746355.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+http://934189609995755739.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/755739.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 HEVC" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 HEVC
+http://934189609995775152.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/775152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 HEVC" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 HEVC
+http://934189609995775153.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/775153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Portugal",PT: DAZN ELEVEN 4 FHD
+http://934189609995775157.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/775157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 6 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Portugal",PT: DAZN ELEVEN 6 FHD
+http://934189609995775160.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/775160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 HEVC" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 HEVC
+http://934189609995778203.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/778203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 FHD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 FHD
+http://934189609995782968.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/782968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://934189609995802460.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/802460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://934189609995802464.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/802464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://934189609995802465.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/802465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD
+http://934189609995817728.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/817728.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://934189609995845747.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/845747.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://934189609995845748.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/845748.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 FHD
+http://934189609995845749.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/845749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://934189609995845750.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/845750.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 FHD
+http://934189609995845751.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/845751.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 FHD" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 FHD
+http://934189609995851886.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/851886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 FHD
+http://934189609995851887.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/851887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://934189609995857180.ofk0601.xyz:80/live/hu213966/B@KrxK7DQGXe/857180.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+http://691210543688744516.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://691210543688746355.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+http://691210543688755739.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/755739.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 HEVC" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 HEVC
+http://691210543688775152.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/775152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 HEVC" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 HEVC
+http://691210543688775153.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/775153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Portugal",PT: DAZN ELEVEN 4 FHD
+http://691210543688775157.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/775157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 6 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Portugal",PT: DAZN ELEVEN 6 FHD
+http://691210543688775160.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/775160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 HEVC" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 HEVC
+http://691210543688778203.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/778203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 FHD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 FHD
+http://691210543688782968.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/782968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://691210543688802460.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/802460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://691210543688802464.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/802464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://691210543688802465.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/802465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD
+http://691210543688817728.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/817728.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://691210543688821804.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/821804.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 5 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png" group-title="Portugal",PT: DAZN ELEVEN 5 FHD
+http://691210543688836459.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/836459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://691210543688845747.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/845747.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://691210543688845748.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/845748.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 FHD
+http://691210543688845749.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/845749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://691210543688845750.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/845750.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 FHD
+http://691210543688845751.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/845751.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 FHD" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 FHD
+http://691210543688851886.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/851886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 FHD
+http://691210543688851887.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/851887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://691210543688857180.ofk0601.xyz:80/play/KHXX6JAHRL/UN5rUuHMC5t/857180.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://477222195778746355.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+http://477222195778755739.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/755739.ts
+EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 HEVC" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 HEVC
+http://477222195778775152.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/775152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 HEVC" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 HEVC
+http://477222195778775153.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/775153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Portugal",PT: DAZN ELEVEN 4 FHD
+http://477222195778775157.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/775157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 6 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Portugal",PT: DAZN ELEVEN 6 FHD
+http://477222195778775160.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/775160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 HEVC" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 HEVC
+http://477222195778778203.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/778203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 FHD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 FHD
+http://477222195778782968.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/782968.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
+http://477222195778798232.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/798232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://477222195778802460.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/802460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://477222195778802464.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/802464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://477222195778802465.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/802465.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: EUROSPORT 2ᶠᴴᴰ FHD
+http://477222195778802467.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/802467.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD
+http://477222195778817728.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/817728.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 5 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png" group-title="Portugal",PT: DAZN ELEVEN 5 FHD
+http://477222195778836459.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/836459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://477222195778845747.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/845747.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://477222195778845748.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/845748.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 FHD
+http://477222195778845749.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/845749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://477222195778845750.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/845750.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 FHD
+http://477222195778845751.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/845751.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 FHD" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 FHD
+http://477222195778851886.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/851886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 FHD
+http://477222195778851887.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/851887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://477222195778857180.ofk0601.xyz:80/live/QINnGDAO/SjPqFaGm/857180.ts
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 6 FHD
+http://62023509268744516.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/744516.ts
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 FHD
+http://62023509268746355.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/746355.ts
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 FHD
+http://62023509268755739.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/755739.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 HEVC" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 HEVC
+http://62023509268775152.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/775152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 HEVC" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 HEVC
+http://62023509268775153.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/775153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="Portugal",PT: DAZN ELEVEN 4 FHD
+http://62023509268775157.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/775157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 6 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Portugal",PT: DAZN ELEVEN 6 FHD
+http://62023509268775160.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/775160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 HEVC" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 HEVC
+http://62023509268778203.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/778203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 3 FHD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: DAZN ELEVEN 3 FHD
+http://62023509268782968.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/782968.ts
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 FHD
+http://62023509268798232.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/798232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD HEVEC FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://62023509268802460.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/802460.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://62023509268802464.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/802464.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 SD
+http://62023509268802465.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/802465.ts
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
+http://62023509268821804.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/821804.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 5 FHD" tvg-logo="https://tvepg.eu/img/portugal/logo/eleven_sports_5.png" group-title="Portugal",PT: DAZN ELEVEN 5 FHD
+http://62023509268836459.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/836459.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 1 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 1 FHD
+http://62023509268845747.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/845747.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 3 SD
+http://62023509268845748.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/845748.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 4 FHD
+http://62023509268845749.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/845749.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 SD" tvg-logo="" group-title="Portugal",PT: ELEVEN 5 SD
+http://62023509268845750.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/845750.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 FHD" tvg-logo="" group-title="Portugal",PT: ELEVEN 6 FHD
+http://62023509268845751.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/845751.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 1 FHD" tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",PT: DAZN ELEVEN 1 FHD
+http://62023509268851886.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/851886.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DAZN ELEVEN 2 FHD" tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",PT: DAZN ELEVEN 2 FHD
+http://62023509268851887.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/851887.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="http://box20.co:80/images/654e6a6d3542cf9e1514a51918473211.png" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
+http://62023509268857180.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857180.ts
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.pinimg.com/originals/3e/1e/e6/3e1ee6a0fb1bb1859a462a15ca4ecd12.png" group-title="Portugal",PT: FOX CRIME FHD
+http://62023509268857181.ofk0601.xyz:80/play/me419345/XQg9uYeEwa/857181.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1499
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1503
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1506
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1509
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1512
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1515
+#EXTINF:-1,ELEVEN SPORTS 1  4K
+http://c4n.fun:80/12068534/436822/1047377.ts
+#EXTINF:-1,ELEVEN SPORTS 1 ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047378.ts
+#EXTINF:-1,ELEVEN SPORTS 1
+http://c4n.fun:80/12068534/436822/1047379.ts
+#EXTINF:-1,ELEVEN SPORTS 2  4K
+http://c4n.fun:80/12068534/436822/1047380.ts
+#EXTINF:-1,ELEVEN SPORTS 2 ᶠᴴᴰ
+http://c4n.fun:80/12068534/436822/1047381.ts
+#EXTINF:-1,ELEVEN SPORTS 2
+http://c4n.fun:80/12068534/436822/1047382.ts
+#EXTINF:-1,ELEVEN SPORTS 3
+http://c4n.fun:80/12068534/436822/1047383.ts
+#EXTINF:-1,ELEVEN SPORTS 4
+http://c4n.fun:80/12068534/436822/1047384.ts
+#EXTINF:-1,ELEVEN SPORTS 5
+http://c4n.fun:80/12068534/436822/1047385.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
